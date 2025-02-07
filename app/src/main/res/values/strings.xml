@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GymBroSchedule</string>
+    <string name="update_workouts">Update Schedule</string>
+    <string name="add_workouts">Add Schedule</string>
+</resources>

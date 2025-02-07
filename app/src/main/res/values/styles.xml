@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ThemeOverlay_MaterialComponents_MaterialCalendar">
+        <item name="android:colorAccent">#FF4081</item> <!-- Customize accent color -->
+        <item name="android:textColorPrimary">#000000</item> <!-- Customize text color -->
+        <item name="android:background">#FFFFFF</item>
+    </style>
+</resources>
